@@ -1,0 +1,11 @@
+{    
+    
+    "nrdb_insert_api_key": "NRII-###########",
+    "nrdb_insert_url": "https://insights-collector.newrelic.com/v1/accounts/###########/events",
+    "nrdb_entity_utilization_event_name": "ENTITY_UTILIZATION",
+    "nr_graph_api_key": "NRAK-###########",
+    "nr_graph_api_account": "########",
+    "daily_sync_time": "3",
+    "encrypted_config": false,
+    "version": "1"
+}
